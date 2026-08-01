@@ -1,0 +1,11 @@
+{
+  "name": "engineering-with-ai",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "generate": "node scripts/generate-docs.mjs",
+    "check": "node scripts/check-site.mjs",
+    "build": "npm run generate && npm run check"
+  }
+}

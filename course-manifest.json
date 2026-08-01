@@ -1,0 +1,32 @@
+{
+  "course": "Engineering with AI",
+  "subtitle": "Professional Software Engineering in the Age of AI",
+  "schemaVersion": 1,
+  "statusDefinitions": ["Planned", "Scaffolded", "Drafted", "Implemented", "Validated", "Personally Completed", "Published"],
+  "sessions": [
+    {"id":"01","layer":"1 — Engineering Ownership","title":"AI Generates. Engineers Own.","status":"Implemented"},
+    {"id":"02","layer":"1 — Engineering Ownership","title":"Reviewing AI-Generated Artifacts","status":"Implemented"},
+    {"id":"03","layer":"1 — Engineering Ownership","title":"Validation Before Trust","status":"Implemented"},
+    {"id":"04","layer":"1 — Engineering Ownership","title":"Version Control as an Engineering Safety Net","status":"Scaffolded"},
+    {"id":"05","layer":"2 — Evidence and Change","title":"Testing Application Code","status":"Scaffolded"},
+    {"id":"06","layer":"2 — Evidence and Change","title":"Testing Infrastructure Code","status":"Scaffolded"},
+    {"id":"07","layer":"2 — Evidence and Change","title":"Refactoring AI Output","status":"Scaffolded"},
+    {"id":"08","layer":"2 — Evidence and Change","title":"Rollback and Reversibility","status":"Scaffolded"},
+    {"id":"09","layer":"3 — Design and Maintainability","title":"Architecture Before Artifacts","status":"Scaffolded"},
+    {"id":"10","layer":"3 — Design and Maintainability","title":"Boundaries, Contracts, and Interfaces","status":"Scaffolded"},
+    {"id":"11","layer":"3 — Design and Maintainability","title":"Documentation as an Engineering Artifact","status":"Scaffolded"},
+    {"id":"12","layer":"3 — Design and Maintainability","title":"Maintainability Review","status":"Scaffolded"},
+    {"id":"13","layer":"4 — Infrastructure as Code","title":"Application Code and Infrastructure Code","status":"Scaffolded"},
+    {"id":"14","layer":"4 — Infrastructure as Code","title":"Bicep and Terraform Review","status":"Scaffolded"},
+    {"id":"15","layer":"4 — Infrastructure as Code","title":"YAML, Pipelines, and Hidden Behavior","status":"Scaffolded"},
+    {"id":"16","layer":"4 — Infrastructure as Code","title":"Containers and Kubernetes Manifests","status":"Scaffolded"},
+    {"id":"17","layer":"5 — Production Readiness","title":"Security Review of AI Output","status":"Scaffolded"},
+    {"id":"18","layer":"5 — Production Readiness","title":"Cost Awareness","status":"Scaffolded"},
+    {"id":"19","layer":"5 — Production Readiness","title":"Observability and Operational Readiness","status":"Scaffolded"},
+    {"id":"20","layer":"5 — Production Readiness","title":"The Production Readiness Review","status":"Scaffolded"},
+    {"id":"21","layer":"6 — Professional Practice","title":"Working with AI Across C#, Python, React, and Angular","status":"Scaffolded"},
+    {"id":"22","layer":"6 — Professional Practice","title":"Working with AI Across SQL and Data Changes","status":"Scaffolded"},
+    {"id":"23","layer":"6 — Professional Practice","title":"Engineering Judgment and Escalation","status":"Scaffolded"},
+    {"id":"24","layer":"6 — Professional Practice","title":"Capstone: Own the Consequences","status":"Scaffolded"}
+  ]
+}
